@@ -9,3 +9,5 @@
 |5. **`git commit -m "Mensaje"`**|Confirma los archivos modificados en el `git add` para agruparlos en el próximo push| *commited*
 |6. **`git push`**|Realiza el "empuje" de los Commits del repositorio local al repositorio remoto| *Pushed/Save*
 |3. **`git log`**|Muestra el historial de Commits realizados| ----
+
+![](https://memegenerator.net/img/instances/72473371.jpg "Oh no...")
